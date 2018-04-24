@@ -5,6 +5,7 @@ import org.junit.Test;
 public class homeauto {
 
 	@Test
+	
 	public void test() {
 		
 		String on="on";
